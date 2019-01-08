@@ -1,4 +1,4 @@
 # GIS-Remote Sensing
-This Repository will serve as a platform to explore the use cases for Data Science in GIS
+This Repository will serve as a platform to explore the use cases for using Python to manipulate Satellite imagery.
 
-At first we will use libraries such as rasterio(imagery) and geopandas(shapefiles) to first work with the spatial data.
+Libraries such as rasterio, GDAL, and senitnelhub will be used throughout this Repository.
